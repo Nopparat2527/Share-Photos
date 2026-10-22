@@ -1,0 +1,6 @@
+{
+  "name": "FotoVault",
+  "description": "Smart encrypted photo vault with categories, search tags, cloud sync, AI enhancement, photo marketplace, sales analytics, and points reward system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
